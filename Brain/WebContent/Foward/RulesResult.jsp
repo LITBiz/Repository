@@ -14,4 +14,4 @@
 		나눗샘의 결과는? <% request.getAttribute("DIV"); %><br> 
 
 </body>
-</html>0
+</html>
